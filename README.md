@@ -1,1 +1,3 @@
-To run the histogram, you're going to have to install Matplotlib: -pip install matplotlib.
+# To run the histogram
+# 1. install Matplotlib "pip install matplotlib"
+# And that's it!

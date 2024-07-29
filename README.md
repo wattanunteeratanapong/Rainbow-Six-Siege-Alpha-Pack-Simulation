@@ -6,7 +6,7 @@ Have you ever wondered how many matches you have to play to get one alpha pack i
 win (+2.0%)
 loss (+1.5%)<br />
 
-**Ranked Match :**
+**Ranked Match :&nbsp;&nbsp;&nbsp;**
 win (+3.0%)
 loss (+2.5%)<br />
 

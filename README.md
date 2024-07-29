@@ -1,6 +1,6 @@
 # Rainbow Six Siege Alpha Pack Analysis
 
-Have you ever wondered how many matches you have to play to get one alpha pack in R6?<br />
+Have you ever wonder how many matches you have to play to get one alpha pack in R6?<br />
 
 **Standard Match :**
 win (+2.0%)

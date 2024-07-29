@@ -1,4 +1,4 @@
-# Rainbow Six Siege Alpha Pack Analysis
+# Rainbow Six Siege Alpha Pack Simulation
 
 Have you ever wonder how many matches you have to play to get one alpha pack in R6?<br />
 

@@ -2,8 +2,12 @@
 
 Have you ever wondered how many matches you have to play to get one alpha pack in R6?<br />
 
-**Standard Match : **  1 win (+2.0%), 1 loss (+1.5%)<br />
+**Standard Match :**
+win (+2.0%)
+loss (+1.5%)<br />
 
-**Ranked Match : **  1 win (+3.0%), 1 loss (+2.5%)<br />
+**Ranked Match :**
+win (+3.0%)
+loss (+2.5%)<br />
 
 And if you win, you get to spin a lottery.

@@ -10,4 +10,4 @@ loss (+1.5%)<br />
 win (+3.0%)
 loss (+2.5%)<br />
 
-And if you win, you get to spin a lottery.
+And if you win, you get to spin a lottery

@@ -18,7 +18,7 @@ loss (+2.5%)<br />
 
 ## Overview & Control Variable
 - In this experiment we are randomly generate win and lose to player 50%-50% chance (most of the player win rate are around 50%)
-- Test around 10 million time, the higher testing round the closer to theoratical probability
+- Test around 10 million time, the higher testing time the closer to theoratical probability
 <br>
 
 ## Conclusion

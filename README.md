@@ -24,10 +24,12 @@ loss (+2.5%)<br />
 ## Conclusion
 **In Standard Match**
 If you play around 9-13 match you are likely get alphapack<br><br>
-![image](https://github.com/user-attachments/assets/402185bf-6671-44d0-887b-acea1780cc84)<br>
+![image](https://github.com/user-attachments/assets/f4106183-28d4-4031-8683-597a664bb159)
+<br>
 
 **In Ranked Match**
 If you play around 7-10 match you are likely get alphapack<br><br>
-![image](https://github.com/user-attachments/assets/7375b82a-9acc-457a-9b34-ac610516cdba)<br>
+![image](https://github.com/user-attachments/assets/0a4eff5c-045d-4ea1-97ef-837fc91cf98c)
+<br>
 
 And the more you win the lower round you have to play to get an alpha pack

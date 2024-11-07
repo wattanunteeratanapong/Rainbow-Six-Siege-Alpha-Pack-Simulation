@@ -1,4 +1,5 @@
 # Rainbow Six Siege Alpha Pack Simulation
+![F6ZuBTkWsAQbQEU](https://github.com/user-attachments/assets/8b115033-d9b9-4921-92c5-42837ccbcc11) <br>
 Have you ever wonder how many matches you have to play to get one alpha pack in R6?<br />
 <br>
 
